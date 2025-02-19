@@ -47,7 +47,7 @@ Si tout fonctionne, on obtient un Job ID similaire à :
 
 >>> Job ID: cyttv5478z600082p4m0
 
-📂 Structure du projet
+## 📂 Structure du projet
 
 /
 
